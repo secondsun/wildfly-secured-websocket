@@ -1,0 +1,10 @@
+{
+  "realm": "memeolist",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgt81YBnvvazzTjdHuuisG1OLzFYZa8W+dJj7xdWn0J0FW9XXAdugcYxeA4umCk4d/tWtC/ITaXWb+WTwbbP87NaARncmhi5XzDMhor6kJ0k38G3GDABohtGSQ0J4qQXumu75KwZ6k6J6KxBIfnjN18eHQEv6vxQywimX9nGQhRP/EVB2R+VFnvqhtmZIByZ1HBG7teJALQpIcfmF9XvOwjm9tAKQ2EBuGCRNiekHeqfjtR4Vn/O20p4wMKXd7VeHIGtLfc0buAJnEWTwMT/EcFja+svSzltGBFxaQj2Q/4oH2xnhHEZTS2rXgfLSHMpoz/hAybKEWJGDJ9Y82zzNiQIDAQAB",
+  "auth-server-url": "https://auth-coffeeregister.rhcloud.com/auth",
+  "ssl-required": "external",
+  "resource": "memolist-wbe",
+  "credentials": {
+    "secret": "f5dedef6-2626-466c-9cbf-67f5ac0ccf49"
+  }
+}
